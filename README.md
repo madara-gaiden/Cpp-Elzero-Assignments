@@ -1,4 +1,4 @@
-# Cpp
+# Cpp-Elzero-Assignments
 
 Playlist: https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS
 
