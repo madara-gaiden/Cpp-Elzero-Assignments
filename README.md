@@ -8,4 +8,4 @@ Assignments: https://elzero.org/category/assignments/cpp-assignments/
 
 Watched Videos => [ 30 From 160 ]
 
-![19%](https://progress-bar.dev/5/?title=progress)
+![19%](https://progress-bar.dev/19  /?title=progress)
