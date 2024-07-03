@@ -8,7 +8,7 @@ int main(){
     typedef long long int lli;
 
     lli num = 150050005; // This Is Long Long Int
-    cout << num << "\n"; // 150050005   
+    cout << num << "\n"; // 150050005       
 
     return 0;
 }
