@@ -9,4 +9,5 @@ int main(){
     if (age > 18 && points > 500 && rate > 5)
         cout << "Yes Age > 18 & Points > 500 & Rate > 5";
     
+    return 0;
 }
