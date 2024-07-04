@@ -6,7 +6,7 @@ int main(){
     int num2 = 0;
     int num3 = 1;
     int num4 = 23;
-                
+
     if (num1 > num2)
         cout << "Condition 1 Is True\n";
     else
