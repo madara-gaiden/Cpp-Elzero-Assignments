@@ -6,8 +6,7 @@ int main(){
     cout << "Type a Year : ";
     cin >> year;
 
-    switch (year)
-    {
+    switch (year){
     case 1982:
         cout << "My Birth Day\n";
         break;
