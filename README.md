@@ -6,6 +6,6 @@ Study Plan: [https://elzero.org/study/cplusplus-study-plan/]
 
 Assignments: https://elzero.org/category/assignments/cpp-assignments/
 
-Watched Videos => [ 35 From 160 ]
+Watched Videos => [ 38 From 160 ]
 
-![22%](https://progress-bar.dev/22/?title=progress)
+![23%](https://progress-bar.dev/23/?title=progress)
