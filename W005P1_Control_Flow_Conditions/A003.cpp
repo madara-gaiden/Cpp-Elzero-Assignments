@@ -12,4 +12,6 @@ int main(){
         cout << "0" << num;
     else
         cout << num;
+
+    return 0;
 }
