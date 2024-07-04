@@ -16,4 +16,6 @@ int main(){
         cout << "Yes Points Is Ok\n";
     else
         cout << "No Points Is Not Ok\n";
+
+    return 0;
 }
