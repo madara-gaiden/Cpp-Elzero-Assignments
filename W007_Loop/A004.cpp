@@ -1,6 +1,3 @@
-// // Output Needed
-// 0 2 4 6 8 14 16 18
-
 #include <iostream>
 using namespace std;
 int main()
