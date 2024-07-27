@@ -8,7 +8,7 @@ int minpositive(int numbers[], int numssize) {
             if (minN < numbers[i]) {
                 minN = minN;
             }
-            else if(minN > numbers[i]) {
+            else {
                 minN = numbers[i];
             }
         }
